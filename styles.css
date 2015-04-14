@@ -31,14 +31,14 @@
 	padding-left: 10%;
 	padding-top: 6%;
 	border-collapse: separate;
+	
 
 }
 .pic{
 	padding-right: 13%;
 	width: 10%;
-	margin-right: auto;
-	margin-left: auto;
 	display: inline-block;
+	max-width: 100%;
 }
 .bottom-text{
 	font-size: 12px;
